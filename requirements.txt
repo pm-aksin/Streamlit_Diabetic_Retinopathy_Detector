@@ -1,0 +1,6 @@
+pandas
+fpdf
+torch
+torchvision
+pillow
+numpy
