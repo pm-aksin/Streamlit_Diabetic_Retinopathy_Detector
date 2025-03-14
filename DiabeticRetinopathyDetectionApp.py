@@ -1,4 +1,3 @@
-pip install streamlit sqlite3 pandas fpdf torch torchvision pillow numpy
 import streamlit as st
 import sqlite3
 import pandas as pd
